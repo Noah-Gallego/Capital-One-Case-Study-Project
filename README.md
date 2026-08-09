@@ -20,7 +20,7 @@ The calculator models revenue from credit utilization, interest, annual fees, an
 
 ## Preview
 
-![Capital One case study presentation](https://noah-readme-assets-v2.vercel.app/capital-one.png)
+![Capital One case study presentation](https://noah-readme-assets-v3.vercel.app/Capital-One-Case-Study-Project/browser.png)
 
 ## Tech stack
 
