@@ -2,6 +2,10 @@
 
 A case-study presentation and Python profit-calculation prototype for comparing credit-product assumptions.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html&theme=light" alt="Python and HTML" />
+</p>
+
 ## Overview
 
 The repository contains:
