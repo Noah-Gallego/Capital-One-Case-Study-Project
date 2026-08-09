@@ -18,11 +18,19 @@ The repository contains:
 
 The calculator models revenue from credit utilization, interest, annual fees, and bookings, then subtracts charge-offs, funding cost, and annual operating cost. It fetches a Capital One logo from an external URL when executed.
 
+## Preview
+
+![Capital One case study presentation](https://noah-readme-assets-v2.vercel.app/capital-one.png)
+
 ## Tech stack
 
 - Python
 - Matplotlib
 - Exported HTML presentation assets
+
+### Important libraries
+
+- Matplotlib
 
 ## Usage
 
