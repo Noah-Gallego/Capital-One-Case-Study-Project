@@ -22,16 +22,6 @@ The calculator models revenue from credit utilization, interest, annual fees, an
 
 ![Capital One case study presentation](https://noah-readme-assets-v3.vercel.app/Capital-One-Case-Study-Project/browser.png)
 
-## Tech stack
-
-- Python
-- Matplotlib
-- Exported HTML presentation assets
-
-### Important libraries
-
-- Matplotlib
-
 ## Usage
 
 Run `calculator.py` in an environment with its Python imports available and network access for the external logo request. It displays a profit chart rather than writing a result file.
