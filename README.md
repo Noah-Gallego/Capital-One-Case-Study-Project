@@ -31,3 +31,16 @@ Open `index.html` in a browser to view the included presentation export.
 ## Status and attribution
 
 This is case-study material. The PDFs and external logo remain subject to their respective rights and attribution requirements; this repository does not add a new software license.
+
+> [!NOTE]
+> The calculator is an illustrative prototype: it plots modeled profit assumptions and does not represent an official Capital One product or forecast.
+
+## Project flow
+
+```mermaid
+flowchart LR
+    A[Case-study PDFs] --> B[Business assumptions]
+    B --> C[calculator.py]
+    C --> D[Profit calculation and chart]
+    E[index.html presentation export] --> F[Browser viewer]
+```
